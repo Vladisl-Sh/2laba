@@ -1,0 +1,10 @@
+G:\Paint\bin\Debug\Paint.exe.config
+G:\Paint\bin\Debug\Paint.exe
+G:\Paint\bin\Debug\Paint.pdb
+G:\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+G:\Paint\obj\Debug\Paint.Form1.resources
+G:\Paint\obj\Debug\Paint.Properties.Resources.resources
+G:\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+G:\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+G:\Paint\obj\Debug\Paint.exe
+G:\Paint\obj\Debug\Paint.pdb
